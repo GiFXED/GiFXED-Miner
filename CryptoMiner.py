@@ -5,7 +5,7 @@ import threading
 from queue import Queue
 
 #example python CryptoMiner.py 12345 "transaction1" "transaction2" "transaction3" "previoushash123" "mineraddress123" BTC "cryptoaddress123" -t 4
-# In this example, we are mining a block with block number 12345, containing 3 transactions: "transaction1", "transaction2", and "transaction3". The previous block's hash is "previoushash123", and we are mining for BTC currency. The miner's address is "mineraddress123", and the address to receive the mining rewards is "cryptoaddress123". We are using 4 threads to mine the block.
+#In this example, we are mining a block with block number 12345, containing 3 transactions: "transaction1", "transaction2", and "transaction3". The previous block's hash is "previoushash123", and we are mining for BTC currency. The miner's address is "mineraddress123", and the address to receive the mining rewards is "cryptoaddress123". We are using 4 threads to mine the block.
 
 # Attribution information
 __author__ = 'GiFXED'
