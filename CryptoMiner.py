@@ -11,6 +11,8 @@ from queue import Queue
 __author__ = 'GiFXED'
 __version__ = '1.3'
 
+
+#PLEASE NOTE: these are just examples
 MINING_POOL_URLS = {
     'BTC': 'https://mining-pool-example.com/mine_btc',
     'ETH': 'https://mining-pool-example.com/mine_eth',
