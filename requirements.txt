@@ -1,3 +1,3 @@
-pip install hashlib
-pip install requests
-pip install threading
+hashlib
+requests
+threading
